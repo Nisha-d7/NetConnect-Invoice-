@@ -1,4 +1,29 @@
 # invoice-generation-app
+
+A full-stack invoice management system built for an Internet Service Provider (ISP), designed to handle customer billing, invoice tracking, and staff-level administration.
+
+Project Features:
+
+Customer Portal:
+
+Secure login authentication
+
+View monthly and yearly invoices
+
+Filter invoices and download PDF copies
+
+Access restricted to invoices linked to the customer’s email
+
+Staff/Admin Dashboard:
+
+Manage and update all customer invoices
+
+View customer details and handle dispute tickets
+
+Access usage analytics and administrative tools
+
+Fully protected routes with role-based permissions
+
 # ISP Invoice Portal - Authentication & Authorization
 
 This project now has proper authentication and authorization system implemented with the following features:
