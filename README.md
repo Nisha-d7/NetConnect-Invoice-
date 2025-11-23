@@ -2,9 +2,9 @@
 
 A full-stack invoice management system built for an Internet Service Provider (ISP), designed to handle customer billing, invoice tracking, and staff-level administration.
 
-Project Features:
+#Project Features:
 
-Customer Portal:
+#Customer Portal:
 
 Secure login authentication
 
@@ -14,7 +14,7 @@ Filter invoices and download PDF copies
 
 Access restricted to invoices linked to the customer’s email
 
-Staff/Admin Dashboard:
+#Staff/Admin Dashboard:
 
 Manage and update all customer invoices
 
